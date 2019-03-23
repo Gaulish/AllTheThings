@@ -5,8 +5,35 @@ _.WorldDrops =
 {
 	{
 		["groups"] = {
-			n(-1000, { -- Sets
-				["groups"] = bubbleDown({["bonusID"] = 1812}, {
+			n(-318, {	-- Armor [Epic -- No adjustments]
+				["groups"] = {
+					i(163933),	-- Aguas' Band of Augury
+					i(163936),	-- 'Bygone Bee' Almanac
+					i(163949),	-- Celedhring's Unrelenting Stride
+					i(163931),	-- Chain Links of Fraying Awe
+					i(163951),	-- Cinch of the Sainted General
+					i(163950),	-- Edla's Embellished Legguards
+					i(163940),	-- Extra-Light Light Emitting Cord
+					i(163946),	-- Gayeong's Gentle Step
+					i(163934),	-- Gnarled Mood Ring
+					i(163941),	-- Hauer's Gloves of Strategy
+					i(163953),	-- Jula's Jovial Drape
+					i(163938),	-- Kalieve's Kickers
+					i(163935),	-- Landoi's Scrutiny
+					i(163937),	-- Leyshock's Grand Compilation
+					i(163939),	-- Mallusof's Pantaloons of Stability
+					i(163948),	-- Moarse's Coarse-Chain Gauntlets
+					i(163945),	-- Mystra's Magnificient Mitts
+					i(163943),	-- Neleimour's Patterned Leggings
+					i(163952),	-- Oprescu's Gilded Touch
+					i(163947),	-- Robust Legwraps of D'nusa
+					i(163942),	-- Slippers of the Unruly Fairies
+					i(163944),	-- Waatah's Double-Knotted Cord
+					i(163932),	-- Wolfpelt Greatcloak
+				},
+			}),
+			n(-318, {	-- Armor [Uncommon -- needs ID's]
+				["groups"] = bubbleDown({["bonusID"] = 4796, ["lvl"] = 110}, {
 					i(154833),	-- Bloodhex Hood
 					i(154838),	-- Bloodhex Mantle
 					i(154836),	-- Bloodhex Vestments
@@ -214,6 +241,6 @@ _.WorldDrops =
 				}),
 			}),
 		},
-		["tierID"] = 8
+		["tierID"] = 8,
 	}
 };

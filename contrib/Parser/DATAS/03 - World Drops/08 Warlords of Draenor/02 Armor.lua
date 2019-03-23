@@ -99,9 +99,18 @@ _.WorldDrops =
 					i(118832),	-- Wodin's Weary Wristguards
 					i(118839),	-- Bonechain Bracers
 					i(118860),	-- Bolt-Bound Bracers
-					i(119331),	-- Bracers of Visceral Force
-					i(119332),	-- Bracers of Darkened Skies
-					i(119333),	-- Bracers of Shattered Limbs
+					modID(3, i(119331)),  -- Bracers of Visceral Force
+					modID(5, i(119331)),  -- Bracers of Visceral Force
+					modID(6, i(119331)),  -- Bracers of Visceral Force
+					modID(3, i(119332)),  -- Bracers of Darkened Skies
+					modID(5, i(119332)),  -- Bracers of Darkened Skies
+					modID(6, i(119332)),  -- Bracers of Darkened Skies
+					modID(3, i(119333)),  -- Bracers of Shattered Limbs
+					modID(5, i(119333)),  -- Bracers of Shattered Limbs
+					modID(6, i(119333)),  -- Bracers of Shattered Limbs
+					modID(3, i(119334)),  -- Bracers of Callous Disregard
+					modID(5, i(119334)),  -- Bracers of Callous Disregard
+					modID(6, i(119334)),  -- Bracers of Callous Disregard
 				}),
 				n(-327, { -- Hands
 					i(113593),	-- Grips of Vicious Mauling
@@ -122,14 +131,30 @@ _.WorldDrops =
 					i(118886),	-- Waistgirdle of the Mountain
 					i(118887),	-- Cloudcaller's Linked Belt
 					i(118888),	-- Ashelia's Adorned Waistguard
-					i(119335),	-- Eyeripper Girdle
-					i(119336),	-- Cord of Winsome Sorrows
-					i(119337),	-- Ripswallow Plate Belt
-					i(119338),	-- Belt of Inebriated Sorrows
-					i(124182),	-- Cord of Unhinged Malice
-					i(124277),	-- Flayed Demonskin Belt
-					i(124311),	-- Cursed Demonchain Belt
-					i(124350),	-- Girdle of Demonic Wrath
+					modID(3, i(119335)),  -- Eyeripper Girdle
+					modID(5, i(119335)),  -- Eyeripper Girdle
+					modID(6, i(119335)),  -- Eyeripper Girdle
+					modID(3, i(119336)),  -- Cord of Winsome Sorrows
+					modID(5, i(119336)),  -- Cord of Winsome Sorrows
+					modID(6, i(119336)),  -- Cord of Winsome Sorrows
+					modID(3, i(119337)),  -- Ripswallow Plate Belt
+					modID(5, i(119337)),  -- Ripswallow Plate Belt
+					modID(6, i(119337)),  -- Ripswallow Plate Belt
+					modID(3, i(119338)),  -- Belt of Inebriated Sorrows
+					modID(5, i(119338)),  -- Belt of Inebriated Sorrows
+					modID(6, i(119338)),  -- Belt of Inebriated Sorrows
+					modID(3, i(124182)),  -- Cord of Unhinged Malice
+					modID(5, i(124182)),  -- Cord of Unhinged Malice
+					modID(6, i(124182)),  -- Cord of Unhinged Malice
+					modID(3, i(124277)),  -- Flayed Demonskin Belt
+					modID(5, i(124277)),  -- Flayed Demonskin Belt
+					modID(6, i(124277)),  -- Flayed Demonskin Belt
+					modID(3, i(124311)),  -- Cursed Demonchain Belt
+					modID(5, i(124311)),  -- Cursed Demonchain Belt
+					modID(6, i(124311)),  -- Cursed Demonchain Belt
+					modID(3, i(124350)),  -- Girdle of Demonic Wrath
+					modID(5, i(124350)),  -- Girdle of Demonic Wrath
+					modID(6, i(124350)),  -- Girdle of Demonic Wrath
 				}),
 				n(-329, { -- Legs
 					i(118822),	-- Kitsy's Knickers
@@ -142,14 +167,30 @@ _.WorldDrops =
 					i(118826),	-- Cadi's Grass Stained Slippers
 					i(118834),	-- Spiffy Chainmail Boots
 					i(118854),	-- Zor's Taboo Treads
-					i(119339),	-- Treads of the Veteran Smith
-					i(119340),	-- Iron-Flecked Sandals
-					i(119341),	-- Doomslag Greatboots
-					i(119342),	-- Furnace Stoker's Footwraps
-					i(124150),	-- Dessicated Soulrender Slippers
-					i(124252),	-- Jungle Assassin's Footpads
-					i(124288),	-- Unhallowed Voidlink Boots
-					i(124323),	-- Cruel Hope Crushers
+					modID(3, i(119339)),  -- Treads of the Veteran Smith
+					modID(5, i(119339)),  -- Treads of the Veteran Smith
+					modID(6, i(119339)),  -- Treads of the Veteran Smith
+					modID(3, i(119340)),  -- Iron-Flecked Sandals
+					modID(5, i(119340)),  -- Iron-Flecked Sandals
+					modID(6, i(119340)),  -- Iron-Flecked Sandals
+					modID(3, i(119341)),  -- Doomslag Greatboots
+					modID(5, i(119341)),  -- Doomslag Greatboots
+					modID(6, i(119341)),  -- Doomslag Greatboots
+					modID(3, i(119342)),  -- Furnace Stoker's Footwraps
+					modID(5, i(119342)),  -- Furnace Stoker's Footwraps
+					modID(6, i(119342)),  -- Furnace Stoker's Footwraps
+					modID(3, i(124150)),  -- Dessicated Soulrender Slippers
+					modID(5, i(124150)),  -- Dessicated Soulrender Slippers
+					modID(6, i(124150)),  -- Dessicated Soulrender Slippers
+					modID(3, i(124252)),  -- Jungle Assassin's Footpads
+					modID(5, i(124252)),  -- Jungle Assassin's Footpads
+					modID(6, i(124252)),  -- Jungle Assassin's Footpads
+					modID(3, i(124288)),  -- Unhallowed Voidlink Boots
+					modID(5, i(124288)),  -- Unhallowed Voidlink Boots
+					modID(6, i(124288)),  -- Unhallowed Voidlink Boots
+					modID(3, i(124323)),  -- Cruel Hope Crushers
+					modID(5, i(124323)),  -- Cruel Hope Crushers
+					modID(6, i(124323)),  -- Cruel Hope Crushers
 				}),
 				filter(52, {	-- Finger
 					{	-- Ancestral Ring

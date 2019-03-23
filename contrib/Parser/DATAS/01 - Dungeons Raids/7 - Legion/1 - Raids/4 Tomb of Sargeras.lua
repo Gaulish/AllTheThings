@@ -84,18 +84,18 @@ _.Instances = { tier(7, {	-- Legion
 						111246,	-- Archmage Timear
 					},
 					["groups"] = {
-						i(147423),
-						i(147422),
-						i(146989),
-						i(147425),
-						i(147424),
-						i(147038),
-						i(147427),
-						i(147426),
-						i(147044),
-						i(147429),
-						i(147428),
-						i(147064),
+						i(147423),  -- Sash of the Unredeemed
+						i(147422),  -- Acolyte's Abandoned Footwraps
+						i(146989),  -- Fel-Flecked Grips
+						i(147425),  -- Cord of Pilfered Rosaries
+						i(147424),  -- Treads of Violent Intrusion
+						i(147038),  -- Wakening Horror Spaulders
+						i(147427),  -- Pristine Moon-Wrought Clasp
+						i(147426),  -- Treads of Panicked Escape
+						i(147044),  -- Soul-Rattle Ribcage
+						i(147429),  -- Girdle of the Crumbling Sanctum
+						i(147428),  -- Spiked Terrorwake Greatboots
+						i(147064),  -- Diadem of the Highborne
 					},
 				}),
 				ach(11787, { 	-- The Gates of Hell	
@@ -341,18 +341,18 @@ _.Instances = { tier(7, {	-- Legion
 					},
 				}),
 				n(0, { 		-- Zone Drop
-					i(147423),
-					i(147422),
-					i(146989),
-					i(147425),
-					i(147424),
-					i(147038),
-					i(147427),
-					i(147426),
-					i(147044),
-					i(147429),
-					i(147428),
-					i(147064),
+					i(147423),  -- Sash of the Unredeemed
+					i(147422),  -- Acolyte's Abandoned Footwraps
+					i(146989),  -- Fel-Flecked Grips
+					i(147425),  -- Cord of Pilfered Rosaries
+					i(147424),  -- Treads of Violent Intrusion
+					i(147038),  -- Wakening Horror Spaulders
+					i(147427),  -- Pristine Moon-Wrought Clasp
+					i(147426),  -- Treads of Panicked Escape
+					i(147044),  -- Soul-Rattle Ribcage
+					i(147429),  -- Girdle of the Crumbling Sanctum
+					i(147428),  -- Spiked Terrorwake Greatboots
+					i(147064),  -- Diadem of the Highborne
 				}),
 				cr(115844, e(1862, {	-- Goroth
 					i(147069),
@@ -572,18 +572,18 @@ _.Instances = { tier(7, {	-- Legion
 					},
 				}),
 				n(0, { 		-- Zone Drop
-					i(147423),
-					i(147422),
-					i(146989),
-					i(147425),
-					i(147424),
-					i(147038),
-					i(147427),
-					i(147426),
-					i(147044),
-					i(147429),
-					i(147428),
-					i(147064),
+					i(147423),  -- Sash of the Unredeemed
+					i(147422),  -- Acolyte's Abandoned Footwraps
+					i(146989),  -- Fel-Flecked Grips
+					i(147425),  -- Cord of Pilfered Rosaries
+					i(147424),  -- Treads of Violent Intrusion
+					i(147038),  -- Wakening Horror Spaulders
+					i(147427),  -- Pristine Moon-Wrought Clasp
+					i(147426),  -- Treads of Panicked Escape
+					i(147044),  -- Soul-Rattle Ribcage
+					i(147429),  -- Girdle of the Crumbling Sanctum
+					i(147428),  -- Spiked Terrorwake Greatboots
+					i(147064),  -- Diadem of the Highborne
 				}),
 				cr(115844, e(1862, {	-- Goroth
 					i(147069),
@@ -803,18 +803,18 @@ _.Instances = { tier(7, {	-- Legion
 					},
 				}),
 				n(0, { 		-- Zone Drop
-					i(147423),
-					i(147422),
-					i(146989),
-					i(147425),
-					i(147424),
-					i(147038),
-					i(147427),
-					i(147426),
-					i(147044),
-					i(147429),
-					i(147428),
-					i(147064),
+					i(147423),  -- Sash of the Unredeemed
+					i(147422),  -- Acolyte's Abandoned Footwraps
+					i(146989),  -- Fel-Flecked Grips
+					i(147425),  -- Cord of Pilfered Rosaries
+					i(147424),  -- Treads of Violent Intrusion
+					i(147038),  -- Wakening Horror Spaulders
+					i(147427),  -- Pristine Moon-Wrought Clasp
+					i(147426),  -- Treads of Panicked Escape
+					i(147044),  -- Soul-Rattle Ribcage
+					i(147429),  -- Girdle of the Crumbling Sanctum
+					i(147428),  -- Spiked Terrorwake Greatboots
+					i(147064),  -- Diadem of the Highborne
 				}),
 				cr(115844, e(1862, {	-- Goroth
 					i(147069),	-- Shoulderplates of Crackling Flame
